@@ -3,7 +3,7 @@ name: 'CI Multiplatform Build'
 on:
   push:
     branches:
-      - master
+      - 25.0.8-patch
   pull_request:
     paths-ignore:
       - '**.md'
